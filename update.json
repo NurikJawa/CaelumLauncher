@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0",
+    "version":  "1.1.1",
     "url":  "https://github.com/NurikJawa/CaelumLauncher/raw/main/CaelumLauncher.exe",
-    "sha256":  "cc1e750fe36771e34aaef20b93407bca5373ba938e3e574ba268f5b34d5b95b6",
-    "notes":  "Lunar-style UI update: Home/Versions/Mods pages and Modrinth optional mods panel"
+    "sha256":  "c22c9700000a22eb6436a643243fd956fe214a6f2c88d5ad5272f7d69e6c770d",
+    "notes":  "Mods panel redesigned in Lunar style: search, list rows, filters, and View/Install actions"
 }
